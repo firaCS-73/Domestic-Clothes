@@ -85,7 +85,7 @@
             <!-- production secton-->
             <section class="production-section">
                 <div class="section-heading">
-                    <h3 class="heading">Latest Product</h3>
+                    <h3 class="heading">Latest Products</h3>
                 </div>
             </section>
         </div>

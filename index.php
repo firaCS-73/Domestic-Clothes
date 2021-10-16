@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>afro_zoma</title>
     <link href="fa/svg-with-js/css/fa-svg-with-js.css" rel="stylesheet">
     <link href="css/jquery.bxslider.min.css" rel="stylesheet">
@@ -79,6 +78,16 @@
                 </div>
 
             </div>
+        </div>
+        
+        <!-- the working area -->
+        <div class="container-fluid">
+            <!-- production secton-->
+            <section class="production-section">
+                <div class="section-heading">
+                    <h3 class="heading">Latest Product</h3>
+                </div>
+            </section>
         </div>
         
     </div>

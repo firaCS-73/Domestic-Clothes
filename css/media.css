@@ -15,6 +15,7 @@
 	}
 	.search-area{
 		width: 360px !important;
+		margin-left: -10px;
 		margin-top: -15px;
 		margin-bottom: 20px;
 	}
@@ -26,7 +27,6 @@
 	.search_btn{
 		float: right;
 		margin-top: -48px;
-		margin-left: 0px;
 	}
 	.slider-area{
 		float: left;

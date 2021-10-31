@@ -15,16 +15,18 @@
 	}
 	.search-area{
 		width: 360px !important;
-		margin-left: -14px;
-		margin-top: 10px;
-		
+		margin-top: -15px;
+		margin-bottom: 20px;
 	}
 	
 	.search_box{
 		width: 360px !important;
+		border: 1.5px solid whitesmoke;
 	}
 	.search_btn{
-		margin-left: -43px;
+		float: right;
+		margin-top: -48px;
+		margin-left: 0px;
 	}
 	.slider-area{
 		float: left;
